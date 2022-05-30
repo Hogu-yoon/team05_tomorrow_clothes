@@ -60,7 +60,7 @@ INSTALLED_APPS = [
     # ... include the providers you want to enable:
     "allauth.socialaccount.providers.kakao",
 ]
-
+# check
 SITE_ID = 4
 
 LOGIN_REDIRECT_URL = "/"  # 로그인 후 리디렉션할 페이지
